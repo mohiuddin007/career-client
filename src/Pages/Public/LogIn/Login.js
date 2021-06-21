@@ -73,7 +73,7 @@ const Login = () => {
               <div className="mt-4 ">
                 <button
                   type="submit"
-                  className="btn btn-block btn-success rounded px-4"
+                  className="btn btn-block btn-info rounded px-4"
                 >
                   Done
                 </button>
